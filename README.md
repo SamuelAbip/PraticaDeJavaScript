@@ -1,1 +1,1 @@
-Este é um programa para realizar o desafio do curso de Javascript do Codecademy.
+Este arquivo contém os desafios do curso de Javascript do Codecademy que realizei.
