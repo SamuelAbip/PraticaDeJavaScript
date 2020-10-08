@@ -43,5 +43,3 @@ function logStoryInfo() {
   paragraphCount();
   countOverused();
 }
-
-logStoryInfo();
